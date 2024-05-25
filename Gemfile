@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'jwt'
+gem 'rack-cors'
+gem 'bcrypt'
+gem 'active_model_serializers'
